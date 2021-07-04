@@ -365,6 +365,15 @@
         }
       }
     ]
+  },
+  {
+    "language": "Org",
+    "markers": [
+      {
+        "type": "line",
+        "pattern": "#"
+      }
+    ]
   }
    {
     "language": "Org",
