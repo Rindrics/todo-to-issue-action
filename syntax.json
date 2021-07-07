@@ -381,5 +381,14 @@
         }
       }
     ]
+  },
+  {
+    "language": "TeX",
+    "markers": [
+      {
+        "type": "line",
+        "pattern": "%"
+      },
+    ]
   }
 ]

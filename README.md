@@ -80,6 +80,7 @@ There are additional inputs if you want to be able to assign issues to projects.
 * Scala
 * Shell
 * Swift
+* TeX
 * TypeScript
 * TSX
 * YAML
